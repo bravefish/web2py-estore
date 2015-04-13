@@ -1,0 +1,1 @@
+Almost complete online store. Customize and upload products via database administrative interface. Use http://localhost/estore/manage to manage the store. Works with google checkout but you need a google merchant\_id and does not provide shipping and taxes information.
